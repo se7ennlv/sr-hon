@@ -1,0 +1,15 @@
+html {
+    -ms-content-zooming: none;
+    -ms-touch-action: pan-x pan-y;
+    -webkit-text-size-adjust: none;
+    touch-action: none; 
+}
+
+.label {
+    font-size: 200%;
+    display: inline-block;
+}
+.modal-header{
+    border-top-left-radius: .4rem;
+    border-top-right-radius: .4rem;
+}
